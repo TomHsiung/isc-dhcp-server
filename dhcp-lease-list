@@ -1,0 +1,2 @@
+# Show all leased IP addresses, /var/lib/dhcp/dhcpd.leases as an example
+ dhcp-lease-list --lease /var/lib/dhcp/dhcpd.leases
